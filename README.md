@@ -1,4 +1,7 @@
 # DM
+
+https://chat.qwen.ai/s/4b9856cd-e432-4bcb-9d7a-9ddf6f5b0eb0?fev=0.0.115
+
 ECO
 en
 conf te
